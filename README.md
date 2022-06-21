@@ -1,4 +1,4 @@
-# ⚽ Grid
+# ⚽ Grid ETI
 Curated list of soccer training videos with search, filtering capabilities. Build using **E**leventy, **T**ailwind CSS, **I**sotope.
 * [View on Netlify](https://soccer-grid.netlify.app/)
 

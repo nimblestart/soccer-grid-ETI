@@ -1,6 +1,13 @@
 # ⚽ Grid
-Curated list of soccer training videos with search, filtering capabilities. This is based on jet repo (https://github.com/marcamos/jet/)
+Curated list of soccer training videos with search, filtering capabilities. 
+* [View on Netlify](https://soccer-grid.netlify.app/)
 
+## Components
+* This is repo is based on [jet repo](https://github.com/marcamos/jet/) which in turn uses
+    * [Eleventy](https://www.11ty.dev/)
+    * [Tailwind CSS](https://tailwindcss.com/)
+* [Isotope](https://isotope.metafizzy.co/) is used for adding the search and filtering capability
+* [Youtube Data download](https://mattw.io/youtube-metadata/bulk) is used to get video metadata
 
 ## How you can use it
 1. Clone this repo
@@ -11,11 +18,17 @@ Curated list of soccer training videos with search, filtering capabilities. This
 6. When you’re done: `npm run build`
 7. Host your project somewhere ([Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) are nice options)
 
-## Links
-https://www.tailwindawesome.com/
-https://mattw.io/youtube-metadata/bulk
+## To-Do
+* Video load seems to be slow, see if there is a better way to do it
+* Work on curating videos and better tagging them
+* Add tags which correspond to a session plan
 
-## Notes for me
+## Disclaimer
+I _originally_ built this in few hours through trial-and-error, so I'm sure there's _a lot_ of room for improvement.
+
+If you try it and find issues, or think of improvements, please [file an issue](https://github.com/nimblestart/soccer-grid/issues/new) and/or [create a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+<!---just
 cd soccer-grid
 git config user.name "nimblestart O"
 git config user.email nimble.start@gmail.com
+--->

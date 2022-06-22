@@ -19,14 +19,15 @@ Curated list of soccer training videos with search, filtering capabilities. Buil
 7. Host your project somewhere ([Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) are nice options)
 
 ## To-Do
-* Video load seems to be slow, see if there is a better way to do it
-* Work on curating videos and better tagging them
-* Add tags which correspond to a session plan
+* Done - Video load seems to be slow, see if there is a better way to do it
+* YTS - Work on curating videos and better tagging them
+* YTS - Add tags which correspond to a session plan
 
 ## Disclaimer
 I _originally_ built this in few hours through trial-and-error, so I'm sure there's _a lot_ of room for improvement.
 
 If you try it and find issues, or think of improvements, please [file an issue](https://github.com/nimblestart/soccer-grid/issues/new) and/or [create a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
 <!---just
 cd soccer-grid
 git config user.name "nimblestart O"

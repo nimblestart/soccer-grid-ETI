@@ -1,90 +1,402 @@
 {
   "video_library": [
+    {
+      "id": "5E-szowEGzs",
+      "title": "Soccer warm-up Drills ⚽️ High Intensity, Dynamic Exercises to DOMINATE the GAME!",
+      "tags": "warm-up"
+    },
+    {
+      "id": "7cL5j4pOn80",
+      "title": "How To Prepare For Training | Essential warm-up Exercises For Footballers/Soccer Players",
+      "tags": "warm-up"
+    },
+    {
+      "id": "DXa27Urcoy4",
+      "title": "Soccer Warm-Up Before Training",
+      "tags": "warm-up"
+    },
+    {
+      "id": "LoJ5dsFz59s",
+      "title": "Full Soccer Training Session Just Using a Wall",
+      "tags": "wall-drills"
+    },
+    {
+      "id": "y7xbhdH5fsc",
+      "title": "TRAIN LIKE A PRO | 12 Best Wall Passing Drills To Improve Touch",
+      "tags": "wall-drills"
+    },
+    {
+      "id": "w_ATu5Lzo74",
+      "title": "Improve Soccer Skills with Wall Training",
+      "tags": "wall-drills"
+    },
+    {
+      "id": "Jw3bumN_HhU",
+      "title": "Train Yourself Series - 10 Soccer Exercises You Can Do With A Wall",
+      "tags": "wall-drills, cones, hurdles"
+    },
+    {
+      "id": "fGg97xBwn4Q",
+      "title": "YOU WON’T REACH PRO LEVEL WITHOUT THIS TRAINING - DAY 5",
+      "tags": "wall-drills"
+    },
+    {
+      "id": "ttbBSoovPc4",
+      "title": "15 Drills All Footballers Should Master | Essential Individual Training Drills",
+      "tags": "wall-drills"
+    },
+    {
+      "id": "3ys-LNy_jsM",
+      "title": "10 Individual first-touch Exercises For Footballers | Improve Your first-touch At Home",
+      "tags": "wall-drills, at-home"
+    },
+    {
+      "id": "GGd9sRDjt5A",
+      "title": "What is BACKFOOT in soccer and why does it matter?",
+      "tags": "backfoot, wall-drills"
+    },
+    {
+      "id": "Jw3bumN_HhU",
+      "title": "Train Yourself Series - 10 Soccer Exercises You Can Do With A Wall",
+      "tags": "wall-drills"
+    },
+    {
+      "id": "WVKSp2tynPk",
+      "title": "10 BEST 1v1 SKILLS in Soccer/Football",
+      "tags": "1V1"
+    },
+    {
+      "id": "y59hD2kDTJw",
+      "title": "C. Ronaldo 1v1 Against Defenders",
+      "tags": "1V1"
+    },
+    {
+      "id": "A3sxkfBCIYM",
+      "title": "How To Attack In 1v1 Like A PRO",
+      "tags": "1V1"
+    },
+    {
+      "id": "mNA7bT3CLQU",
+      "title": "How To Beat EVERY Defender 1v1",
+      "tags": "1V1"
+    },
+    {
+      "id": "ENgKv5KvV1o",
+      "title": "How to win 1v1 situations | dribble the defender",
+      "tags": "1V1"
+    },
+    {
+      "id": "s7Ac34Ds0Qo",
+      "title": "THE 1V1 HACKS YOU WISH YOU KNEW SOONER - DRIBBLING HACKS",
+      "tags": "1V1"
+    },
+    {
+      "id": "dNB-iS8kHms",
+      "title": "1v1 Attacking | Tips",
+      "tags": "1V1"
+    },
+    {
+      "id": "T6atRhRHuLo",
+      "title": "15 BEST SKILL MOVES TO BEAT DEFENDERS IN REAL GAMES",
+      "tags": "1V1"
+    },
+    {
+      "id": "kmmDtmfgos0",
+      "title": "1vs1 Dribbling Soccer Drill | Attacking & Defending Exercises",
+      "tags": "1V1"
+    },
+    {
+      "id": "tqr9C5F4S6k",
+      "title": "EASY 1v1 Skills that Destroy Defenders",
+      "tags": "1V1"
+    },
+    {
+      "id": "OZIzM0NK_gk",
+      "title": "Lionel Messi ● 1 vs 1 Situations",
+      "tags": "1V1"
+    },
+    {
+      "id": "jT9lG5YLYbw",
+      "title": "Pre-season training for football | 1v1 drills",
+      "tags": "1V1"
+    },
+    {
+      "id": "qyFXOnDkiAE",
+      "title": "15 Skills for When the Defender is too CLOSE",
+      "tags": "1V1"
+    },
+    {
+      "id": "yVvomsV9JEM",
+      "title": "SoccerCoachTV - 1v1 to 1v2 to 2v2 Attacking & Defending Game.",
+      "tags": "1V1"
+    },
+    {
+      "id": "vR2Grj1f0VE",
+      "title": "How to curve the ball | Learn bending free kick",
+      "tags": "curve"
+    },
+    {
+      "id": "Xzk595CTAtU",
+      "title": "How To Curl The Ball | Step By Step Bending Shooting Tutorial",
+      "tags": "curve"
+    },
+    {
+      "id": "onL4ObTUr_w",
+      "title": "How to CURVE a BALL | Take AMAZING Free kicks!",
+      "tags": "curve"
+    },
+    {
+      "id": "dbDRWx5i4Ew",
+      "title": "How to Curve the Ball | Shoot like MESSI",
+      "tags": "curve"
+    },
+    {
+      "id": "xIcUvrTn7FE",
+      "title": "How to Shoot with CURVE in Soccer",
+      "tags": "curve"
+    },
+    {
+      "id": "Sdv6Y1tqE4U",
+      "title": "5 Essential Dribbling Drills | Improve Your Dribbling With These Five Individual Training Drills",
+      "tags": "drills, tight-spaces, ball-control, dribble, dribbling"
+    },
+    {
+      "id": "7QEflsYZp3M",
+      "title": "Learn To Master The Ball | 10 ball-mastery Exercises To Improve Your ball-control",
+      "tags": "ball-mastery, dribbling, dribble, beat defenders"
+    },
+    {
+      "id": "p8JdwmHKZls",
+      "title": "How To Dribble Like Messi | Close Control Dribbling | Fundamental Dribbling Technique Tutorial",
+      "tags": "dribble, ball-control, dribbling"
+    },
+    {
+      "id": "jwIHc9rz7yo",
+      "title": "5 Essential Dribbling Drills Every Player Should Master",
+      "tags": "dribble, dribbling"
+    },
+    {
+      "id": "FURC4OsgzGE",
+      "title": "How to Improve Your ball-control & Soccer Skills in Less than 5 Minutes!",
+      "tags": "ball-control, futsal tricks, 1v1, dribbling, dribble"
+    },
 
-{"id":"LoJ5dsFz59s","title":"Full Soccer Training Session Just Using a Wall","tags":"wall-drills"},
-{"id":"y7xbhdH5fsc","title":"TRAIN LIKE A PRO | 12 Best Wall Passing Drills To Improve Touch","tags":"wall-drills"},
-{"id":"w_ATu5Lzo74","title":"Improve Soccer Skills with Wall Training","tags":"wall-drills"},
-{"id":"Jw3bumN_HhU","title":"Train Yourself Series - 10 Soccer Exercises You Can Do With A Wall","tags":"wall-drills cones hurdles"},
-{"id":"fGg97xBwn4Q","title":"YOU WON’T REACH PRO LEVEL WITHOUT THIS TRAINING - DAY 5","tags":"wall-drills"},
-{"id":"ttbBSoovPc4","title":"15 Drills All Footballers Should Master | Essential Individual Training Drills","tags":"wall-drills"},
-{"id":"3ys-LNy_jsM","title":"10 Individual First Touch Exercises For Footballers | Improve Your First Touch At Home","tags":"wall-drills home"},
-
-{"id":"vR2Grj1f0VE","title":"How to curve the ball | Learn bending free kick","tags":"curve"},
-{"id":"Xzk595CTAtU","title":"How To Curl The Ball | Step By Step Bending Shooting Tutorial","tags":"curve"},
-{"id":"onL4ObTUr_w","title":"How to CURVE a BALL | Take AMAZING Free kicks!","tags":"curve"},
-{"id":"dbDRWx5i4Ew","title":"How to Curve the Ball | Shoot like MESSI","tags":"curve"},
-{"id":"xIcUvrTn7FE","title":"How to Shoot with CURVE in Soccer","tags":"curve"},
-
-{"id":"5E-szowEGzs","title":"Soccer Warm Up Drills ⚽️ High Intensity, Dynamic Exercises to DOMINATE the GAME!","tags":"warm-up"},
-{"id":"7cL5j4pOn80","title":"How To Prepare For Training | Essential Warm Up Exercises For Footballers/Soccer Players","tags":"warm-up"},
-{"id":"DXa27Urcoy4","title":"Soccer Warm-Up Before Training","tags":"warm-up"},
-
-{"id":"WVKSp2tynPk","title":"10 BEST 1v1 SKILLS in Soccer/Football","tags":"1V1"},
-{"id":"y59hD2kDTJw","title":"C. Ronaldo 1v1 Against Defenders","tags":"1V1"},
-{"id":"A3sxkfBCIYM","title":"How To Attack In 1v1 Like A PRO","tags":"1V1"},
-{"id":"mNA7bT3CLQU","title":"How To Beat EVERY Defender 1v1","tags":"1V1"},
-{"id":"ENgKv5KvV1o","title":"How to win 1v1 situations | dribble the defender","tags":"1V1"},
-{"id":"s7Ac34Ds0Qo","title":"THE 1V1 HACKS YOU WISH YOU KNEW SOONER - DRIBBLING HACKS","tags":"1V1"},
-{"id":"dNB-iS8kHms","title":"1v1 Attacking | Tips","tags":"1V1"},
-{"id":"T6atRhRHuLo","title":"15 BEST SKILL MOVES TO BEAT DEFENDERS IN REAL GAMES","tags":"1V1"},
-{"id":"kmmDtmfgos0","title":"1vs1 Dribbling Soccer Drill | Attacking & Defending Exercises","tags":"1V1"},
-{"id":"tqr9C5F4S6k","title":"EASY 1v1 Skills that Destroy Defenders","tags":"1V1"},
-{"id":"OZIzM0NK_gk","title":"Lionel Messi ● 1 vs 1 Situations","tags":"1V1"},
-{"id":"jT9lG5YLYbw","title":"Pre-season training for football | 1v1 drills","tags":"1V1"},
-{"id":"qyFXOnDkiAE","title":"15 Skills for When the Defender is too CLOSE","tags":"1V1"},
-{"id":"yVvomsV9JEM","title":"SoccerCoachTV - 1v1 to 1v2 to 2v2 Attacking & Defending Game.","tags":"1V1"},
-
+    {
+      "id": "Sf88rkmfhgE",
+      "title": "Top Three Football/Soccer Drills For Fast Improvement | Individual Training For Soccer Players",
+      "tags": "dribble, ronaldo, speed, agility, shooting, drills"
+    },
     
-{"id":"QVV7sZ7nSuo","title":"HOME WORKOUT for FULL BODY 💪No Equipment | All Fitness Levels","tags":"home workout"},
-{"id":"j8MaK3lLIGM","title":"Wall Ball Drills - IN-HOUSE SESSIONS - Week 2","tags":""},
-{"id":"HdbSfHdMUXc","title":"5 RULES ON BODY POSITION IN FOOTBALL","tags":"body position soccer, body position football, guardiola football, guardiola soccer, football skills, soccer skills, soccer training sessions, football training sessions, football, soccer, football2020, soccer2020, football skill, soccer skill, body position in soccer, body position in football, football body position, soccer body position, football body orientation, soccer body orientation"},
-{"id":"nlmVIHCCRQ4","title":"How to PRESS the ball | Catalan Masterclass","tags":"pressing soccer, pressing football, pressing football tactics, how to press football, how to high press in soccer, pressing, pressing game, soccer, football, liverpool, jurgen klopp, counter press, tactics, coaching, high press football, high press, david moyes, soccer coaching, football coaching"},
-{"id":"aaxb1EVujiw","title":"5 Examples of High-Press Tactics & High-Defensive Line in Soccer/Football","tags":"soccer, soccerspective, EPL, bundesliga, serie A, MLS, major league soccer, high defensive line football, pressing high up the pitch, high press football tactics, pressing from the front football, high pressing football drills, compact defending analysis, coaching high press soccer, coaching defensive shape soccer, soccer team shape and movement, la liga, high press, soccer defense, soccer tactics, high press soccer, high press soccer tactics, soccer highlights, soccer coaching"},
-{"id":"Iq-yDZB1N3A","title":"How to get BETTER at soccer ON YOUR OWN","tags":"soccer, football, coaching, training, drills, tutorial, how to get better at soccer by yourself, how to get better at soccer on your own, 1 on 1 soccer training, 1 on 1 soccer, the hidden qs, thehiddenqs, individual soccer drills, individual soccer training drills, individual soccer practice drills, soccer training"},
-{"id":"GGd9sRDjt5A","title":"What is BACKFOOT in soccer and why does it matter?","tags":"soccer, football, coaching, training, drills, tutorial, back foot in soccer, backfoot in soccer, backfoot in football, how to control a soccer ball, how to receive a soccer ball, how to receive a pass in soccer, backfoot touch in soccer"},
-{"id":"pP0lQ4nClSg","title":"How To Score Like Vardy | The Specialist","tags":"Soccer AM, jamie vardy, leicester city, how to, score, football, professional, alan, russell, russel, allan"},
-{"id":"_dYy4QGXnns","title":"Soccer Basics - Positioning and Movement","tags":"Soccer, soccer training, soccer positioning, soccer movement off the ball, soccer basics, soccer for beginners, soccer skills, soccer attacking, soccer tactics, soccer striker, soccer where to move, soccer moving with the ball, soccer forward runs, soccer IQ"},
-{"id":"pmo6e_ZNmXE","title":"How To Play Striker In Soccer | How To Play Center Forward Position In Football","tags":"how to play striker in soccer, how to play center forward position, how to play striker, how to play striker in football, how to play striker position, how to play center forward in football, how to play center forward in soccer, soccer tips, soccer forward tips, soccer tips for forwards, soccer tactics, Forward (Football Position), Football (Interest), Soccer, progressive soccer training, dylan tooby, how to play center striker in soccer, how to play center striker in football"},
-{"id":"Sdv6Y1tqE4U","title":"5 Essential Dribbling Drills | Improve Your Dribbling With These Five Individual Training Drills","tags":"drills for tight space control, how to dribble in tight spaces, how to dribble like Messi, how to improve ball control, learn to master the ball, 10 ball mastery exercises, football dribbling skills, how to dribble a soccer ball, easy soccer skills for beginners, soccer dribbling drills, soccer dribbling skills, easy soccer skills"},
-{"id":"5g7ZuQD--6o","title":"The 1000 Touch Workout | No Equipment Individual Training Session For Footballers","tags":"how to train with no equipment, first touch drills for soccer players, first touch training, professional soccer training, how to become a better soccer player, ball mastery training, ball mastery exercises, best ball mastery exercises, how to improve ball control, learn to master the ball, how to juggle a soccer ball, soccer juggling tutorial, easy soccer skills tutorial, soccer skills for beginners"},
-{"id":"7QEflsYZp3M","title":"Learn To Master The Ball | 10 Ball Mastery Exercises To Improve Your Ball Control","tags":"ball mastery training, ball mastery exercises, best ball mastery exercises, how to improve ball control, learn to master the ball, 10 ball mastery exercises, football dribbling skills, how to dribble a soccer ball, easy soccer skills for beginners, easy dribbling moves to beat defenders, easy dribbling skills"},
-{"id":"Jw3bumN_HhU","title":"Train Yourself Series - 10 Soccer Exercises You Can Do With A Wall","tags":"soccer, coaching, drills, coach, football, technique, exercise, defense, attack, midfield, passing, receiving, dribbling, shooting, finishing, goalkeeper, goalkeeping, footwork, speed, agility, division1, d1, division"},
-{"id":"FU06zgPGp0c","title":"5 DRILLS TO DO WITHOUT THE BALL - Learn these football skills","tags":"unisportlife, unisport, football, soccer, epic, awesome, cleats, boots, learn, tutorial, football skills, football boots, top 5, how to, skills, drills, training, fitness, stamina, no ball, alone, new, 2018"},
-{"id":"xRJOJ8tcU7s","title":"Watch a Pro's Full Individual Training Session","tags":"soccer, football, sports, vlog, matt, sheldon, become, elite, professional, pro, footballer, athlete, workout, weight, lift, train, training, saint, louis, fc, pro's full training session, full individual training session, professional training session, pro training, professional training, professional individual training session, pro practice, drills professional"},
-{"id":"Hmu7RwMVf2U","title":"How To Stand Out At Soccer Tryouts 2019 - What To Avoid","tags":"Simplysoccer, Simply soccer, How To Stand Out At A Soccer Tryout, How to stand out at a football tryout, soccer, soccer tryout tips, tryout tips, football tryout tips, soccer tryouts, how to do good at soccer tryouts, soccer tryouts high school, soccer tryouts advice - soccer tips, soccer tryout, how to stand out at soccer tryouts, how to make soccer tryouts, how to do good in soccer tryouts, how to prepare for a soccer tryout, tryout tips for soccer, soccer tryouts middle school"},
-{"id":"uQm7c7kLZds","title":"How to Train Like a Pro | The Ultimate Guide To Individual Training","tags":"how to train like a pro, how to train like a professional soccer player, how to train like a pro soccer player, how to train like a professional footballer, professional soccer training drills, professional soccer drills, individual soccer training, individual soccer drills, drills for soccer players, 7mlc, individual drills for soccer players, individual training drills for soccer players, best soccer drills for improvement"},
-{"id":"Y8i6QDPQ0v0","title":"How to train on your own | 3 individual football training drills","tags":"unisportlife, unisport, football, soccer, epic, awesome, cleats, boots, nike, training, training drills, workout, how to, football drills, individual, stamina, improve, finishing, technique, football training, effective, football skills, skills, tutorial, drills, exercises, footballer player, player, footballer"},
-{"id":"z7jP3moQi9c","title":"100 Individual Soccer Training Drills","tags":"soccer, football, sports, vlog, matt, sheldon, become, elite, professional, pro, footballer, athlete, workout, weight, lift, train, training, saint, louis, fc, dribble, dribbling, pass, passing, cross, crossing, shoot, shooting, improve, 100 drills, individual training drills, juggling, juggle, first touch, 100 individual soccer training drills, football drills, how to train alone, football drills to improve, pro soccer player training drills, drill ideas, training drill ideas, train at home ideas"},
-{"id":"UFhCXHWIp2A","title":"How To Master The Ball | The Ultimate Guide To Ball Mastery For Footballers | Skills Tutorial","tags":"ball mastery training, ball mastery training for footballers, ball mastery exercises for soccer player, how to master a soccer ball, how to dribble like messi, 7mlc, professional soccer training, how to master the ball at your feet, the ultimate guide to ball mastery, how to improve soccer skills, easy soccer skills, easy skills for soccer players, easy skill moves for soccer players, skill move tutorial, soccer skills tutorial, easy skills tutorial"},
-{"id":"KvZ2m9sMmG8","title":"3 Soccer Drills To Help You Dominate The Wing - Soccer Drills For Wingers","tags":"Simplysoccer, Simply soccer, 3 Soccer Drills To Help You Dominate The Wing, Soccer Drills For Wingers, soccer tips for wingers, soccer training for winger, soccer winger skills, soccer winger drills, soccer winger tips, soccer winger tactics"},
-{"id":"hVEy8hyw5Es","title":"How To Play Winger In Soccer - Complete Guide!","tags":"Simplysoccer, Simply soccer, How To Play Winger In Soccer, how to play winger, how to play winger in football, how to play right winger in soccer, how to play left winger in soccer, how to play winger position in soccer, how to play winger tutorial in soccer, soccer winger analysis, soccer winger tactics, soccer winger movement, winger tutorial, how to play as a winger, soccer winger tips, soccer tips for wingers, soccer winger skills, football winger tips, best wingers, winger"},
-{"id":"bQT3MP5Moq8","title":"How to improve your footwork in soccer | 10 Soccer drills for faster soccer footwork","tags":"how to improve your footwork, soccer drills, soccer footwork, football drills, football footwork, how to improve soccer footwork, how to improve footwork in soccer, soccer drills for kids, soccer drills for beginners, soccer drills for footwork, progressive soccer training, progressive soccer, soccer, football"},
-{"id":"YHWAXSiE2KM","title":"How To Have A Perfect First Touch - 5 Ball Control Drills","tags":"Simplysoccer, Simply soccer, first touch drills, ball control drills, how to have a perfect first touch, how to have a perfect first touch in football, how to have a perfect first touch in soccer, how to have a good first touch, how to have a good first touch in soccer, how to have a good first touch in football, first touch soccer, first touch football, first touch soccer drills, first touch football drills, first touch games, First touch training, first touch training soccer"},
-{"id":"f-QqJvi_cek","title":"TOP 5 SECRETS TO RUNNING FASTER – HOW TO RUN FASTER – INCREASE YOUR SPEED | Day 5","tags":"how to run faster, how to get faster, how to get faster at running, how to increase speed, how to increase your speed, how to become faster, how to get faster in soccer, how to run faster in soccer, how to be faster in soccer, how to get faster in football, how to run faster in football, how to sprint faster, how to improve your speed, how to increase running speed, how to be faster, how to become faster at running, how to be faster in running, run faster"},
-{"id":"p8JdwmHKZls","title":"How To Dribble Like Messi | Close Control Dribbling | Fundamental Dribbling Technique Tutorial","tags":"How to dribble like messi, how to dribble with close control, how to dribble in soccer, soccer dribbling tutorial, soccer dribbling lesson, football dribbling tutorial, football dribbling lesson, dribble like robben, messi dribbling tutorial, messi dribbling skills, champions league, 7mlc, professional soccer training, michael lewis cunningham, dribbling, messi, tutorial, soccer, skills, how to play like messi, how to improve ball control, how to dribble like a pro"},
-{"id":"0qk7LfdW8Mc","title":"10 Soccer Tryout Tests In One Minute","tags":"iMovie"},
-{"id":"Sf88rkmfhgE","title":"Top Three Football/Soccer Drills For Fast Improvement | Individual Training For Soccer Players","tags":"Soccer training drills, best soccer drills for improvement, soccer drills for fast improvement, how to improve in soccer fast, soccer training, football training drills, professional soccer training, professional football training, 7mlc, how to play like messi, how to dribble like messi, how to play like ronaldo, how to dribble like ronaldo, speed training for soccer players, soccer speed training, agility training, shooting training, soccer, training, soccer drills"},
-{"id":"9utSOFJLNiM","title":"Soccer Passing Drills - Improve Your Passing By Yourself","tags":"soccer passing drills, soccer passing drills and exercises, soccer passing technique, soccer passing skills, soccer passing drills for kids, soccer passing drills for high school, soccer passing drills by yourself, soccer drills passing and receiving, soccer drills passing and moving, basic soccer passing drills, easy soccer passing drills, soccer passing drills for youth, soccer drills to improve passing, good soccer passing drills"},
-{"id":"pph5ZHZgg1Y","title":"How To Calm Your Nerves And Relax In Soccer","tags":"how to calm your nerves, soccer relax, how to deal with pressure in soccer, soccer confidence, nervousness in soccer, how to remain calm in soccer, how to calm your nerves in soccer, soccer confidence training, how to be confident in soccer, how to remain calm in football, how to not get nervous before a soccer game, how to relax before a football game, how to relax before a soccer game, how to relax in soccer, how to not be nervous in soccer"},
-{"id":"4vUTOTJl-HA","title":"How To Train By Yourself In 15 minutes!","tags":"professional training session, pro soccer, professional footballer training, individual training drills, how to train by yourself, shooting practice, shooting training, quick feet training, agility training, speed training, nike football, adidas football, nike speed drill, ronaldo, messi, neymar, barcelona, real madrid, champions league, fifa, premier league, fifa goals, 7mlc, training"},
-{"id":"jsTbOeT9W3w","title":"Full Soccer Training Session ► Soccer drills to do by yourself ► How to practice soccer alone","tags":"soccer training, soccer drills, soccer drills to do by yourself, how to practice soccer alone, soccer training drills, soccer training sessions, soccer training workouts, soccer drills to improve ball control, soccer drills for beginners, soccer drills for kids, how to practice soccer by yourself, how to train for soccer by yourself, progressive soccer training, progressive soccer"},
-{"id":"tcoRi1OxFmo","title":"5 Essential Shooting Drills Every Player Should Master","tags":"iMovie, soccer, football, shooting, shot, shoot, how to shoot, how to, how to shoot a soccer ball with power, power shot, become elite, get better, become better player, confidence"},
-{"id":"FURC4OsgzGE","title":"How to Improve Your Ball Control & Soccer Skills in Less than 5 Minutes!","tags":"Improve Ball Control Soccer, Driblling Football, soccer, tricks, skills, tutorials, learn football tricks, learn skills, zidane, ronaldinho, robben, ribery, ronaldo, bale, amazing, freestyle, street soccer, futsal tricks, futsal skills, 1on1, Goal, Best, Goals, freekickerz, Soccer tutorial, Tutorial, Tips, Free Kick Masters, Football (Sport), Dribbling"},
-{"id":"24gY7d6Ycdw","title":"The two minute agility blitz for soccer players","tags":"speed and agilty, soccer, quickness, how to get faster, train at home, football, football training, futbol"},
-{"id":"1g6F3qoxCn0","title":"Agility Ladder Training with a Soccer Ball","tags":"iMovie"},
-{"id":"jwIHc9rz7yo","title":"5 Essential Dribbling Drills Every Player Should Master","tags":"iMovie, Dribbling, Football (Interest), Soccer, Skills, Freestyle, Goal, Ronaldinho, Player (Profession), Tricks, Fifa, You, Goals, Ronaldo, FIFA (Video Game Series)"},
-{"id":"6H8WLfyavWk","title":"Running Form Drills: 7 Drills That Improve Speed and Form","tags":"Running (Sport), Training, Fitness, Marathon (Sport), Cross Country Running (Sport), Track And Field Athletics (Sport), running form drills, running drills"},
-{"id":"ij57OFjvwpk","title":"How To Warm Up Before A Soccer / Football Game","tags":"warm up, soccer warm up drills, football warm up drills, soccer warm up exercises, soccer warm up stretches, football warm up exercises, football warm up stretches, soccer warm up, football warm up, before a soccer game, before a football game, how to warm up, football, soccer"},
-{"id":"UqJjyIst4Pk","title":"Best Forward Runs In Soccer Without The Ball | Soccer Positions & Tactics","tags":"best forward runs in soccer without the ball, forward runs in soccer, forward runs soccer, forward runs without the ball, best forwards runs, soccer, soccer runs, football, forward runs football, forward runs in football, football runs"},
-{"id":"SoijY4BUCtw","title":"Fast Feet Beginner Soccer Drills","tags":"fast footwork, fast footwork drills, soccer drills, improve foot skills, ball mastery, confidence with the ball, high quality instruction, soccer homework, improve your game, soccer skills, mejorar tu técnica, driblar, los ejercicios de driblar, practica de fútbol, pies mas rápidas, mejora tu control de la pelota, control y confianza con la pelota, Freestyle, quarantine workout, quarantine soccer workout, solo soccer practice, how to practice soccer alone, quick home workout"},
-{"id":"HvH5WZk0f90","title":"ABC Running Drills (Lauf-ABC) Part I: Basic Drills To Improve Running Form","tags":"Running (Sport), Training, Jogging (Sport), Fitness, ABC Running Drills, Lauf-ABC, Athletics (Sport), Conditioning, Track And Field Athletics (Sport), Sport, Warm Up, Dynamic Warm Up"},
-{"id":"07AF5UcUj0Q","title":"Full Finishing Training Session | Drills To Improve Attacking Movement and Clinical Finishing","tags":"clinical finishing drills, training drills for striker, individual striker training, how to play as a striker, how to become a better striker, training drills for wingers, how to play as a winger, how to improve ball control, tight space dribbling skills, how to improve soccer dribbling, how to improve dribbling, soccer dribbling tutorial professional soccer training, professional football training session, how to improve first touch, how to improve passing accuracy"},
-{"id":"z_5NCE_pe0Q","title":"HOW TO IMPROVE LONG SHOTS | Score 35m goals","tags":"long, shots, screamer, beckham, predator, precision, martin vingaard, curve, freekick, new, 2019, tutorial, longer, distance, free, kick, how to"},
-{"id":"eOnAvWc0au4","title":"SCORE MORE GOALS | 30 minute finishing football training programme","tags":"finishing, training, tutorial, how to, learn, mizuno, morelia, neo, made in japan, striker, tips, technique"},
-{"id":"CxzwMe4TL74","title":"How to improve your finishing | Learn to score more goals","tags":"will john, goluremi, finishing, score, goals, better, improve, tutorial, learn, how to, striker, mercurial, superfly, 2017"},
-{"id":"JlqzSTigJ4Q","title":"LEARN 5 EFFECTIVE BEGINNER MATCH FOOTBALL SKILLS","tags":"match, feint, la croqueta, fake shot, tutorial, top 5, learn, how to, stepover, shoulder drop, 2017"},
-{"id":"tdFOKHGVE_8","title":"How To Shoot A Soccer Ball While Running","tags":"How To Shoot A Soccer Ball While Running, how to shoot a soccer ball with power while running, how to shoot football while running, how to shoot soccer ball while running, how to shoot a soccer ball while dribbling, how to shoot a soccer ball on the run, how to shoot a soccer ball on the ground, how to shoot on the run, how to shoot on the move, how to shoot while the ball is moving, how to kick a soccer ball with power and accuracy, shoot with power"},
-{"id":"3LL3dOw2f-8","title":"Unisport Training #1 - Learn how to dominate space like Andrés Iniesta - Extreme Control","tags":"joltter, jaymike, pwg, freestyle, tech talk, review, unboxing, play test, tekkers, cleats, boots"}
+    {
+      "id": "5g7ZuQD--6o",
+      "title": "The 1000 Touch Workout | No Equipment Individual Training Session For Footballers",
+      "tags": "no equipment, first-touch, ball-mastery, juggle, juggling"
+    },
+    {
+      "id": "FU06zgPGp0c",
+      "title": "5 DRILLS TO DO WITHOUT THE BALL - Learn these football skills",
+      "tags": "drills, train-solo"
+    },
+    {
+      "id": "pP0lQ4nClSg",
+      "title": "How To Score Like Vardy | The Specialist",
+      "tags": "finishing"
+    },
+    {
+      "id": "aaxb1EVujiw",
+      "title": "5 Examples of High-Press Tactics & High-Defensive Line in Soccer/Football",
+      "tags": "high defensive line, high press"
+    },
+    {
+      "id": "07AF5UcUj0Q",
+      "title": "Full Finishing Training Session | Drills To Improve Attacking Movement and Clinical Finishing",
+      "tags": "finishing, drills, striker, wingers, ball-control, tight-space, first-touch, passing"
+    },
+    {
+      "id": "tdFOKHGVE_8",
+      "title": "How To Shoot A Soccer Ball While Running",
+      "tags": "shoot with power, shoot while running, shoot while dribbling,shoot on the run, shoot with power, accuracy"
+    },
+    {
+      "id": "Y8i6QDPQ0v0",
+      "title": "How to train on your own | 3 individual football training drills",
+      "tags": "drills, stamina, finishing"
+    },
+    {
+      "id": "z7jP3moQi9c",
+      "title": "100 Individual Soccer Training Drills",
+      "tags": "dribble, dribbling, passing, crossing, shooting, juggling, juggle, first-touch, train-solo, at-home"
+    },
+    {
+      "id": "QVV7sZ7nSuo",
+      "title": "HOME WORKOUT for FULL BODY 💪No Equipment | All Fitness Levels",
+      "tags": "workout"
+    },
+    {
+      "id": "j8MaK3lLIGM",
+      "title": "wall-drills Drills - IN-HOUSE SESSIONS - Week 2",
+      "tags": "wall-drills"
+    },
+    {
+      "id": "HdbSfHdMUXc",
+      "title": "5 RULES ON BODY POSITION IN FOOTBALL",
+      "tags": "body position"
+    },
+    {
+      "id": "nlmVIHCCRQ4",
+      "title": "How to PRESS the ball | Catalan Masterclass",
+      "tags": "pressing, tactics, press, high press"
+    },
+    {
+      "id": "_dYy4QGXnns",
+      "title": "Soccer Basics - Positioning and Movement",
+      "tags": "positioning, movement, attacking, tactics, striker, moving with the ball, forward runs, soccer-IQ"
+    },
+    {
+      "id": "pmo6e_ZNmXE",
+      "title": "How To Play Striker In Soccer | How To Play Center Forward Position In Football",
+      "tags": "striker, center-forward"
+    },
+    {
+      "id": "xRJOJ8tcU7s",
+      "title": "Watch a Pro's Full Individual Training Session",
+      "tags": "workout, training-session"
+    },
+    {
+      "id": "Hmu7RwMVf2U",
+      "title": "How To Stand Out At Soccer Tryouts 2019 - What To Avoid",
+      "tags": "tryout"
+    },
+    {
+      "id": "uQm7c7kLZds",
+      "title": "How to Train Like a Pro | The Ultimate Guide To Individual Training",
+      "tags": "train like a pro, soccer training drills"
+    },
+    {
+      "id": "UFhCXHWIp2A",
+      "title": "How To Master The Ball | The Ultimate Guide To ball-mastery For Footballers | Skills Tutorial",
+      "tags": "ball-mastery, dribble, messi"
+    },
+    {
+      "id": "KvZ2m9sMmG8",
+      "title": "3 Soccer Drills To Help You Dominate The Wing - Soccer Drills For Wingers",
+      "tags": "winger, drills, tactics"
+    },
+    {
+      "id": "hVEy8hyw5Es",
+      "title": "How To Play Winger In Soccer - Complete Guide!",
+      "tags": "winger"
+    },
+    {
+      "id": "bQT3MP5Moq8",
+      "title": "How to improve your footwork in soccer | 10 Soccer drills for faster soccer footwork",
+      "tags": "footwork"
+    },
+    {
+      "id": "YHWAXSiE2KM",
+      "title": "How To Have A Perfect first-touch - 5 ball-control Drills",
+      "tags": "first-touch, ball-control"
+    },
+    {
+      "id": "f-QqJvi_cek",
+      "title": "TOP 5 SECRETS TO RUNNING FASTER – HOW TO RUN FASTER – INCREASE YOUR SPEED | Day 5",
+      "tags": "run-faster, increase speed"
+    },
+    {
+      "id": "Iq-yDZB1N3A",
+      "title": "How to get BETTER at soccer ON YOUR OWN",
+      "tags": "1v1, train-solo"
+    },
 
+    {
+      "id": "0qk7LfdW8Mc",
+      "title": "10 Soccer Tryout Tests In One Minute",
+      "tags": "tryout"
+    },
+    {
+      "id": "9utSOFJLNiM",
+      "title": "Soccer Passing Drills - Improve Your Passing By Yourself",
+      "tags": "passing, receiving"
+    },
+    {
+      "id": "pph5ZHZgg1Y",
+      "title": "How To Calm Your Nerves And Relax In Soccer",
+      "tags": "calm your nerves, relax, deal with pressure, confidence, nervousness, remain calm"
+    },
+    {
+      "id": "4vUTOTJl-HA",
+      "title": "How To Train By Yourself In 15 minutes!",
+      "tags": "training, solo training, shooting, fast feet, agility , speed"
+    },
+    {
+      "id": "jsTbOeT9W3w",
+      "title": "Full Soccer Training Session ► Soccer drills to do by yourself ► How to practice soccer alone",
+      "tags": "drills, train-solo, ball-control"
+    },
+    {
+      "id": "tcoRi1OxFmo",
+      "title": "5 Essential Shooting Drills Every Player Should Master",
+      "tags": "shoot, shoot with power, confidence"
+    },
+    {
+      "id": "24gY7d6Ycdw",
+      "title": "The two minute agility blitz for soccer players",
+      "tags": "speed and agilty, quickness, get faster, at-home"
+    },
+    {
+      "id": "1g6F3qoxCn0",
+      "title": "Agility Ladder Training with a Soccer Ball",
+      "tags": "agility ladder"
+    },
+    {
+      "id": "6H8WLfyavWk",
+      "title": "Running Form Drills: 7 Drills That Improve Speed and Form",
+      "tags": "Running, Training, running form, drills"
+    },
+    {
+      "id": "ij57OFjvwpk",
+      "title": "How To warm-up Before A Soccer / Football Game",
+      "tags": "warm-up, stretches, exercises"
+    },
+    {
+      "id": "UqJjyIst4Pk",
+      "title": "Best Forward Runs In Soccer Without The Ball | Soccer Positions & Tactics",
+      "tags": "forward runs, soccer runs"
+    },
+    {
+      "id": "SoijY4BUCtw",
+      "title": "Fast Feet Beginner Soccer Drills",
+      "tags": "fast-footwork, drills, ball-mastery, train-solo, at-home"
+    },
+    {
+      "id": "HvH5WZk0f90",
+      "title": "ABC Running Drills (Lauf-ABC) Part I: Basic Drills To Improve Running Form",
+      "tags": "Running, Training, Jogging, Fitness, Running Drills, Conditioning, warm-up"
+    },
+    {
+      "id": "z_5NCE_pe0Q",
+      "title": "HOW TO IMPROVE LONG SHOTS | Score 35m goals",
+      "tags": "long shots"
+    },
+    {
+      "id": "eOnAvWc0au4",
+      "title": "SCORE MORE GOALS | 30 minute finishing football training programme",
+      "tags": "finishing, training, striker"
+    },
+    {
+      "id": "CxzwMe4TL74",
+      "title": "How to improve your finishing | Learn to score more goals",
+      "tags": "finishing, striker,"
+    },
+    {
+      "id": "JlqzSTigJ4Q",
+      "title": "LEARN 5 EFFECTIVE BEGINNER MATCH FOOTBALL SKILLS",
+      "tags": "feint, la croqueta, fake shot, stepover, shoulder drop"
+    },
+    {
+      "id": "3LL3dOw2f-8",
+      "title": "Unisport Training #1 - Learn how to dominate space like Andrés Iniesta - Extreme Control",
+      "tags": "striker"
+    }
   ]
 }

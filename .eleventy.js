@@ -22,7 +22,6 @@ module.exports = function (eleventyConfig) {
     tags_array = [...new Set(tags_array)]; //de-dupe
 
     let tags_html = '';
-    console.log(tags_array)
 
     tags_array.forEach(function (tag) {
       tags_html += '<button data-filter=".'

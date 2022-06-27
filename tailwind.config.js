@@ -3,7 +3,11 @@ module.exports = {
     './src/**/*.html'
   ],
   theme: {
-    extend: {},
+    extend: {
+      transitionProperty: {
+        'height': 'height'
+      }
+    }
   },
   plugins: [],
 }
